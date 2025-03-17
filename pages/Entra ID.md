@@ -1,0 +1,15 @@
+- #Lab
+- Entra ID Provisioning With JumpCloud
+	- Connected to domain learn-hub.info
+		- acc use adminhub@learn-hub.info
+		- User :
+			- adminhub, User 1, User 2 // Password Malaysia@8991
+			- ![image.png](../assets/image_1742232477974_0.png)
+			- ![image.png](../assets/image_1742234555549_0.png)
+			- Please Make Sure Check THE SUBS before 16th April ![image.png](../assets/image_1742235255191_0.png)
+	- JumpCloud Trial
+		- ![image.png](../assets/image_1742237886587_0.png)
+		- *On-Prem > JumpCloud > Entra Rules*
+		  ![image.png](../assets/image_1742239422230_0.png)
+- JumpCloud Trial Setup
+	- ![image.png](../assets/image_1742237588854_0.png)
